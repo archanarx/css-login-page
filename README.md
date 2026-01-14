@@ -16,4 +16,4 @@ A responsive login page built with HTML and CSS, using media queries for differe
 
 🚀 How to Run
 
-Open index.html in your browser.
+Open login-page.html in your browser.
