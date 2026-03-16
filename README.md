@@ -1,19 +1,15 @@
-🔑 Responsive CSS Login Page
+# Responsive CSS Login Page
 
 A responsive login page built with HTML and CSS, using media queries for different screen sizes.
 
-📌 Features
+ Features :
 
 * Responsive layout for desktop, tablet, and mobile
 
 * Styled login form with CSS
 
-🖼 Screenshots
+ Screenshots 
 ![Desktop View](screenshots/desktop.png)
 ![Mobile View](screenshots/mobile.png)
 
 
-
-🚀 How to Run
-
-Open login-page.html in your browser.
